@@ -10,6 +10,6 @@ This is a compilation of information regarding the contract (SKALE WAYFARER - TE
 3. Contract Details:
 https://lanky-ill-funny-testnet.explorer.testnet.skalenodes.com/address/0x6346EF0868DBDD943E93b55038edCaE58AE1511D?tab=contract
 
-4. Contract Libraries (.sol files) are included in the repository, under the folder named "SKALE contract". Note that Thirdweb don't have a straightforward download contract functionality, thus the libraries had to be copied manually as they are exposed in the Thirdweb dashboard (https://thirdweb.com/mantle/0xe6Fcd011d6F9F5A27ac0d4A694Fa0802a4261E06/sources)
+4. Contract Libraries (.sol files) are included in the repository, under the folder named "SKALE contract". Note that Thirdweb don't have a straightforward download contract functionality, thus the libraries had to be copied manually as they are exposed in the Thirdweb dashboard (https://thirdweb.com/skale-nebula-hub-testnet/0x6346EF0868DBDD943E93b55038edCaE58AE1511D/sources)
     - they may not reflect their actual folder hierarchy if any does exist 
     - there were 2 versions of "Address.sol", we had to isolate one version into a another folder ("OpenZeppelin") to keep the same name.
